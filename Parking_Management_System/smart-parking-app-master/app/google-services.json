@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760621238056",
+    "firebase_url": "https://vacancy-detect.firebaseio.com",
+    "project_id": "vacancy-detect",
+    "storage_bucket": "vacancy-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760621238056:android:c7cd266f5b3e41d344321d",
+        "android_client_info": {
+          "package_name": "com.example.carpark_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760621238056-qlnht75t5rb6q12ak2b6os4el2ho18q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGMzbFSFOTLRrbs4T8vIORVTmyzAjM2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760621238056-qlnht75t5rb6q12ak2b6os4el2ho18q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
